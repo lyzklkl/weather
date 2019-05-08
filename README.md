@@ -17,9 +17,19 @@
 ```text
 ${URL}/city/<城市名字>
 ```
-例如:
+实例:
 ```text
 liyuzhen.top:30001/city/晋城
 ```
 
+---
 
+Swagger ui 接口测试文档地址
+
+```text
+${URL}/swagger-ui.html
+```
+实例:
+```text
+liyuzhen.top:30001/swagger-ui.html
+```
