@@ -6,7 +6,7 @@
 1. lombok 的 @data
 1. slf4j 日志输出
 1. HttpClient 请求第三方接口
-1. redis NoSQL缓存
+1. redis NoSQL缓存(每次请求会打印到日志,每条数据只在redis中存在20秒)
 1. quart定时任务
 1. Swagger ui 接口测试文档
 
