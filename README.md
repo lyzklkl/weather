@@ -33,3 +33,10 @@ ${URL}/swagger-ui.html
 ```text
 liyuzhen.top:30001/swagger-ui.html
 ```
+
+---
+
+查看日志信息
+```text
+http://liyuzhen.top:40001/spring_weather.html
+```
